@@ -9,9 +9,9 @@ O material apresenta dois exemplos de jogos criados com o libDGX. Os dois têm o
 ## Identificação de herança e polimorfismo
 O jogo possui três classes: Drop, MainMenuScreen e GameScreen.
 Olhando para o início de cada uma das classes, temos:
-<pre> ```public class Drop extends Game { ``` </pre>
-<pre> ```public class MainMenuScreen implements Screen { ``` </pre>
-<pre> ```public class GameScreen implements Screen { ``` </pre>
+<pre> public class Drop extends Game {  </pre>
+<pre> public class MainMenuScreen implements Screen {  </pre>
+<pre> public class GameScreen implements Screen {  </pre>
 
 As palavras `extends` e `implements` identificam casos de herança.
 Além disso, polimorfismo também está presente em métodos como:
@@ -38,10 +38,10 @@ Na classe MainMenuScreen:
 		dropImage = new Texture(Gdx.files.internal("droplet.png"));
 		bucketImage = new Texture(Gdx.files.internal("bucket.png"));
 
-    // resto do código
+    	// resto do código
 
-    raindrops = new Array<Rectangle>();
-		spawnRaindrop();
+    	raindrops = new Array<Rectangle>();
+			spawnRaindrop();
 	}
   </pre>
 
@@ -65,8 +65,12 @@ Mais especificamente, ele é usado no seguinte trecho:
 
   ## Impressões pessoais
   De maneira geral, identificar construtores, objetos e os outros conceitos pedidos foi a parte mais fácil do trabalho.
-  Por outro lado, tive dificuldade para entender como as classes se relacionam entre si, e o que cada método faz. Na seção "Prática no Codespaces" do material da aula usado para o trabalho, um dos exercícios pede para adicionar um contador de gotas na tela do jogo. Não consegui fazer essa parte.
+  
+  Por outro lado, tive dificuldade para entender como as classes se relacionam entre si, e o que cada método faz. 
+  Na seção "Prática no Codespaces" do material da aula usado para o trabalho, um dos exercícios pede para adicionar um contador de gotas na tela do jogo. Não consegui fazer essa parte.
+  
   Outro exercício pedia para alterar a velocidade das gotas depois que algumas fossem coletadas. Consegui fazer, embora com muito mais dificuldade e de maneira mais lenta, após vários testes e erros.
+
 
   ## Referências
 
