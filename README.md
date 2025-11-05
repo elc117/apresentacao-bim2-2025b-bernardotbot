@@ -74,11 +74,11 @@ Mais especificamente, ele é usado no seguinte trecho:
 
   ## Referências
   
-  CHARÃO, Andrea. Programação Orientada a Objetos com libGDX. Universidade Federal de Santa Maria. Disponível em: https://liascript.github.io/course/https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2025b/main/classes/24a/README.md#1. Acesso em: 5. nov. 2025.
+  CHARÃO, Andrea. Programação Orientada a Objetos com libGDX. Universidade Federal de Santa Maria. Disponível em: https://liascript.github.io/course/https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2025b/main/classes/24a/README.md#1. Acesso em: 05. nov. 2025.
 
-  OPENAI. ChatGPT. Disponível em: https://chat.openai.com. Acesso em: 5. nov. 2025.
+  OPENAI. ChatGPT. Disponível em: https://chat.openai.com. Acesso em: 05. nov. 2025.
   
-  
+  LIBGDX, Source & Documentation. Disponível em: https://libgdx.com/dev/. Acesso em: 05. nov. 2025.
 
 
   
