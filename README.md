@@ -6,6 +6,10 @@ O material apresenta dois exemplos de jogos criados com o libDGX. Os dois têm o
 <img width="1322" height="858" alt="image" src="https://github.com/user-attachments/assets/1b77a313-4982-4b0f-a939-bc10b66d3db1" />
 <img width="1015" height="816" alt="image" src="https://github.com/user-attachments/assets/e6bf796d-92b3-4975-bb4b-ec98c6b3eadf" />
 
+## Execução do jogo (versão 1)
+![Vídeo](https://github.com/user-attachments/assets/cde02594-002a-4c69-a175-14e76949e8f1)
+
+
 ## Identificação de herança e polimorfismo
 O jogo possui três classes: Drop, MainMenuScreen e GameScreen.
 Olhando para o início de cada uma das classes, temos:
